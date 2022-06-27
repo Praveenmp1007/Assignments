@@ -1,0 +1,10 @@
+a=10;
+b=2;
+c=a+b;
+print(a);
+a=5;
+b=10;
+c=a+b;
+print(c);
+a=b=c
+#print(c)#;
